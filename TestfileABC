@@ -1,0 +1,16 @@
+<br>
+<div>cool
+
+
+<br>This is a test file for the code snippet example.   
+
+<br>It contains some text and a link to <a href="https://www.example.com">Example</a>.
+<br>Here is a code snippet:
+
+
+<pre><code>function helloWorld() {
+    console.log("Hello, World!");
+}
+</code></pre>
+
+</div>
