@@ -1,16 +1,21 @@
-<br>
-<div>cool
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>TestfileABC</title>
+</head>
+<body>
+    <div>cool
 
+        <br>Dies ist eine Testdatei für das Code-Snippet-Beispiel.   
 
-<br>This is a test file for the code snippet example.   
+        <br>Sie enthält etwas Text und einen Link zu <a href="https://www.example.com">Example</a>.
+        <br>Hier ist ein Code-Snippet:
 
-<br>It contains some text and a link to <a href="https://www.example.com">Example</a>.
-<br>Here is a code snippet:
-
-
-<pre><code>function helloWorld() {
+        <pre><code>function helloWorld() {
     console.log("Hello, World!");
 }
 </code></pre>
-
-</div>
+    </div>
+</body>
+</html>
